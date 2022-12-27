@@ -1,4 +1,4 @@
--INTRODUCTION TO MY GIT REPO.
+-`INTRODUCTION TO MY GIT REPO.`
 - 👋 Hi, I’m @Mboya a Developer in the Making.
 - I studied Mathematics and Computer Science from Multimedia University of Kenya
 - Majored in Statistics.
@@ -9,14 +9,16 @@
 
 
 ========= STUDIES & THE FUTURE ==================
--STUDIES
+
+- `STUDIES`
 
 - 🌱 I’m currently learning Data Science @DataCamp
 -  while also learning deep learning on the ai planet plartform
 -  In my free time I try to make front end pages of your favorite websites.
--  [Yours maybe included]
+- 1.Yahoo.com [https://yahoo-rct.netlify.app/]
+- 2.Carepay.com [https://yahoo-rct.netlify.app/]
 
--FUTURE
+-`FUTURE`
 
 - 💞️ I’m looking to collaborate on More Amazing and Interesting Projects with you (yes you) ...
 - 📫 Reach me on Twitter: @__lawi
