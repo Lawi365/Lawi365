@@ -1,5 +1,5 @@
-`INTRODUCTION TO MY GIT REPO.`
-
+<img src="https://forthebadge.com/images/badges/uses-js.svg" alt="built-with-love">
+<img src='https://forthebadge.com/images/badges/cc-0.svg'>
 - 👋 Hi, I’m @Mboya a Developer in the Making.
 - I studied Mathematics and Computer Science
 - Majored in Statistics.
@@ -37,6 +37,6 @@ You can click the Preview link to take a look at your changes.
         <img src="http://ForTheBadge.com/images/badges/built-with-love.svg" alt="built-with-love">
     </a> <br>
     <a href="https://GitHub.com/Lawi365">
-        <img src="https://forthebadge.com/images/badges/uses-js.svg" alt="built-with-love">
+      
     </a> <br>
 </p>
