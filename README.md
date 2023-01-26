@@ -41,9 +41,10 @@
   `Projects | Clones`
   <br>
 -  1.Yahoo.com [https://yahoo-rct.netlify.app/]<br>
--  2.Carepay.com [https://yahoo-rct.netlify.app/]<br>
--  3.SautiSol lyrics analysis[(ongoing)]...
--  4.QuickDuka [ongoing, uses react and node js]<br>
+-  2.Gloow.com [https://gloow.netlify.app/]<br>
+-  3.Mountai lading page [https://mountai-landingpage.netlify.app/]<br>
+-  4.Carepay.com [https://carepayclone.netlify.app/]<br>
+-  5.QuickDuka [[ongoing, uses react and node js](https://quickduka.netlify.app/)]<br>
 <br>
 <p></p>
 
