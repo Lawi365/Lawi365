@@ -1,13 +1,12 @@
 `INTRO`
 <p align="left">
-        <img src="https://github-readme-stats.vercel.app/api?username=Lawi365&theme=blue-green">
+        <img src="https://github-readme-stats.vercel.app/api?username=Lawi365&theme=blue-white">
 </p>
-- 👋 Hi, I’m @Mboya a Developer in the Making.<br>
+- 👋 Hi, I’m @Mboya <br>
 - I studied Mathematics and Computer Science<br>
-- Majored in Statistics.<br>
-- At the Moment I do React Projects as I freelance.<br>
-- 👀Building a websites to help to cater for needs...<br>
-- I find Intrest in the following<br>
+- Majored in Stats.<br>
+- <br>
+- 👀Interests?<br>
 - | Data science | Deep Learning | Database Management | Software Engineering | Economics |.<br>
 - And I'm Open to  any role that seems interesting.<br>
 <p></p>
@@ -32,9 +31,6 @@
 
 <p>
  <img src="https://img.shields.io/badge/Datacamp-05192D?style=for-the-badge&logo=datacamp&logoColor=65FF8F"></p>
--  I’m currently learning Data Science @DataCamp<br>
--  while also learning deep learning on the ai planet plartform<br>
--  In my free time I try to make front end pages of your favorite websites.
 <br>
 <p></p>
 
