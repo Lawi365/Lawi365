@@ -1,5 +1,5 @@
 `🚀 About Me:`
-#### Hello, there!👋<br><br>I'm Mboya, welcome to my Github Intro Page <br>
+#### Hello, there!👋<br><br>I'm Mboya, welcome to my Github Page <br>
 | Data science | Deep Learning | Database Management | Software Engineering | Economics |.<br>
 <br>-You know what? I'm Open to  any role that seems interesting.<br><br>
 `What next`<br>
